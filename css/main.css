@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 5px;
+  font-family: 'Heebo', sans-serif;
+  color: black;
+}
+
+#fixedGIF p {
+  position: fixed;
+  bottom: 75px;
+  right: 25px;
+  font-weight: bold;
+}
+
+#fixedGIF img {
+  position: fixed;
+  height: 100px;
+  bottom: -5px;
+  right: 0px;
+  padding: 0px;
+}

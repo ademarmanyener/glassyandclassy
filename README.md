@@ -1,0 +1,1 @@
+![screenshot of the website](screenshots/1.png "Screenshot")
